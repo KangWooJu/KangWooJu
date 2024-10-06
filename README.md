@@ -32,9 +32,10 @@
     <th>Period</th>
     <th>Name</th>
     <th>Role</th>
-    <th>Status</th>
+    <th>FrameWork</th>
     <th>Note</th>
     <th>Etc</th>
+    <th>Status</th>
   </tr>
   <tr>
     <td>24-03-02 ~ 24-07.30</td>
