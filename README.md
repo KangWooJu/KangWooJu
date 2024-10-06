@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A3DCBE,100:6FC7E1&height=200&section=footer&text=JuiceGitHub📡&fontSize=60&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:C8E6C9,100:6FC7E1&height=200&section=footer&text=Juice's_GitHub📡&fontSize=60&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn
 )
 
 ## :white_check_mark: 소개
