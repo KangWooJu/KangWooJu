@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A3DCBE,100:6FC7E1&height=200&section=footer&text=주쓰의 깃허브!&fontSize=60&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A3DCBE,100:6FC7E1&height=200&section=footer&text=주쓰의 깃허브! &fontSize=60&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn
 )
 
 
