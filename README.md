@@ -34,6 +34,7 @@
     <th>Role</th>
     <th>Status</th>
     <th>Note</th>
+    <th>Etc</th>
   </tr>
   <tr>
     <td>24-03-02 ~ 24-07.30</td>
