@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A3DCBE,100:6FC7E1&height=200&section=footer&text=주쓰의 깃허브!&fontSize=60&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn
+)
+
+
 ## :white_check_mark: 소개
 <div align="center"><br>
 <table>
@@ -61,7 +65,7 @@
 </div>
 <br>
 
-## :white_check_mark: Stack
+## :white_check_mark: 기술스택 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/><br><br>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/><br><br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br><br><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
