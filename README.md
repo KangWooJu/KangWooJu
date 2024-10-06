@@ -1,8 +1,5 @@
 ## Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A3DCBE,100:6FC7E1&height=200&section=footer&text=주쓰의 깃허브! &fontSize=60&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn
-)
-
+![header](https://capsule-render.vercel.app/api?type=wave&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
 
 ## :white_check_mark: 소개
 <div align="center"><br>
