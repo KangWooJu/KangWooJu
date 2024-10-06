@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td>24-03 ~ 24-06</td>
-    <td><a href="https://github.com/9oormthonDKU"></a>9oormthonUNIV 단국대스터디 - 러닝어플 만들기</td>
+    <td><a href="https://github.com/9oormthonDKU/Backend"></a>9oormthonUNIV 단국대스터디 - 러닝어플 만들기</td>
     <td>PM, BE</td>
     <td>Spring Boot , Spring, MYSQL </td>
     <td>24-09-26 ~ 24-10-10</td>
@@ -60,3 +60,8 @@
 </table>
 </div>
 <br>
+
+## :white_check_mark: Stack
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
