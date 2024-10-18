@@ -58,10 +58,10 @@
   </tr>
   <tr>
     <td>24-03 ~ 24-06</td>
-    <td><a href="https://github.com/9oormthonDKU/Backend"></a>9oormthonUNIV 단국대스터디 - 러닝어플 만들기</td>
+    <td><a href="https://github.com/9oormthonDKU"></a>9oormthonUNIV 단국대스터디 - 러닝어플 만들기</td>
     <td>PM, BE</td>
     <td>Spring Boot , Spring, MYSQL </td>
-    <td>24-09-26 ~ 24-10-10</td>
+    <td>24-09-26 ~ 24-10-31</td>
     <td>...</td>
     <td>진행중</td>
   </tr>
