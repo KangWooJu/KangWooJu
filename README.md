@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td>2024-09-01 ~</td>
-    <td>9oormthon DEEP DIVE 풀스택과정 ( kdt )</td>
+    <td>9oormthon DEEP DIVE 풀스택과정 ( KDT )</td>
     <td>수료중</td></td>
     <td>11기</td>
   </tr>
@@ -62,7 +62,7 @@
     <td>PM, BE</td>
     <td>Spring Boot , Spring, MYSQL </td>
     <td>24-09-26 ~ 24-10-31</td>
-    <td>...</td>
+    <td>유니브 내 스터디 활동</td>
     <td>진행중</td>
   </tr>
 </table>
