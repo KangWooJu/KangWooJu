@@ -62,8 +62,17 @@
     <td>PM, BE</td>
     <td>Spring Boot , Spring, MYSQL </td>
     <td>24-09-26 ~ 24-10-31</td>
-    <td>유니브 내 스터디 활동</td>
+    <td>스터디 프로젝트</td>
     <td>진행중</td>
+  </tr>
+   <tr>
+    <td>24-11-18 ~ 24-11-22</td>
+    <td><a href=""></a>9oormthonUNIV 3기 단풍톤</td>
+    <td>PM, BE</td>
+    <td>Spring Boot , Spring Security</td>
+    <td>24-09-26 ~ 24-10-31</td>
+    <td>해커톤</td>
+    <td>..</td>
   </tr>
 </table>
 </div>
