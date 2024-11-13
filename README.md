@@ -63,7 +63,7 @@
     <td>Spring Boot , Spring, MYSQL </td>
     <td>24-09-26 ~ 24-10-31</td>
     <td>스터디 프로젝트</td>
-    <td>진행중</td>
+    <td>완료</td>
   </tr>
    <tr>
     <td>24-11-18 ~ 24-11-22</td>
