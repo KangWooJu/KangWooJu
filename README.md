@@ -71,7 +71,7 @@
     <td>PM, BE</td>
     <td>Spring Boot , Spring Security</td>
     <td>24-09-26 ~ 24-10-31</td>
-    <td>해커톤</td>
+    <td>해커톤 프로젝트</td>
     <td>..</td>
   </tr>
 </table>
