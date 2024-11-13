@@ -67,7 +67,7 @@
   </tr>
    <tr>
     <td>24-11-18 ~ 24-11-22</td>
-    <td><a href=""></a>9oormthonUNIV 3기 단풍톤</td>
+    <td><a href=""></a>Kakao X 9oorm - 9oormthonUNIV 3기 단풍톤</td>
     <td>PM, BE</td>
     <td>Spring Boot , Spring Security</td>
     <td>24-09-26 ~ 24-10-31</td>
