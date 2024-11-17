@@ -67,10 +67,10 @@
   </tr>
    <tr>
     <td>24-11-18 ~ 24-11-22</td>
-    <td><a href=""></a>Kakao X 9oorm - 9oormthonUNIV 3기 단풍톤</td>
+    <td><a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_44_BE"></a>Kakao X 9oorm - 9oormthonUNIV 3기 단풍톤</td>
     <td>PM, BE</td>
     <td>Spring Boot , Spring Security</td>
-    <td>24-09-26 ~ 24-10-31</td>
+    <td>24-11-18 ~ </td>
     <td>해커톤 프로젝트</td>
     <td>..</td>
   </tr>
