@@ -67,11 +67,11 @@
   </tr>
    <tr>
     <td>24-11-18 ~ 24-11-22</td>
-    <td><a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_44_BE"></a>Kakao X 9oorm - 9oormthonUNIV 3기 단풍톤</td>
+    <td><a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_44_BE"></a>단풍톤 44조 - 집콕 ( ZIP : COCK ) </td>
     <td>PM, BE</td>
     <td>Spring Boot , Spring Security</td>
     <td>24-11-18 ~ </td>
-    <td>해커톤 프로젝트</td>
+    <td>Kakao X 9oorm - 9oormthonUNIV 3기 단풍톤 ( 해커톤 ) </td>
     <td>..</td>
   </tr>
 </table>
