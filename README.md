@@ -50,7 +50,7 @@
     <td>24-03-02 ~ 24-07.30</td>
     <td><a href="https://github.com/KangWooJu/DomProject_Final">경매를 이용한 중고거래 사이트</a></td>
     <td>PM , BE</td>
-    <td>Spring Boot , Spring, MYSQL </td>
+    <td>Spring Boot , Spring, MySQL </td>
     <td>1차:24-03-02 ~ 24-06-30</td>
     <td>리팩토링: 24-07-10 ~ 24-07-30</td>
     <td>완료</td>
@@ -60,7 +60,7 @@
     <td>24-03 ~ 24-06</td>
     <td><a href="https://github.com/9oormthonDKU"></a>9oormthonUNIV 단국대스터디 - 러닝어플 만들기</td>
     <td>PM, BE</td>
-    <td>Spring Boot , Spring, MYSQL </td>
+    <td>Spring Boot , Spring, MySQL </td>
     <td>24-09-26 ~ 24-10-31</td>
     <td>스터디 프로젝트</td>
     <td>완료</td>
@@ -69,7 +69,7 @@
     <td>24-11-18 ~ 24-11-22</td>
     <td><a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_44_BE"></a>단풍톤 44조 - 집콕 ( ZIP : COCK ) </td>
     <td>PM, BE</td>
-    <td>Spring Boot , Spring Security , Spring Session , Spring Webflux</td>
+    <td>Spring Boot , Spring Security , Spring Session , Spring Webflux , MySQL</td>
     <td>24-11-18 ~ </td>
     <td>Kakao X 9oorm - 9oormthonUNIV 3기 단풍톤 ( 해커톤 ) </td>
     <td>..</td>
