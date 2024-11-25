@@ -72,7 +72,7 @@
     <td>Spring Boot , Spring Security , Spring Session , Spring Webflux , MySQL</td>
     <td>24-11-18 ~ </td>
     <td>Kakao X 9oorm - 9oormthonUNIV 3기 단풍톤 ( 해커톤 ) </td>
-    <td>..</td>
+    <td>완료</td>
   </tr>
 </table>
 </div>
