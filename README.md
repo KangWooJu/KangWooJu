@@ -70,7 +70,7 @@
     <td><a href="https://github.com/KangWooJu/2024_DANPOONG_TEAM_44_BE">단풍톤 44조 - 집콕 ( ZIP : COCK )</a></td>
     <td>PM, BE</td>
     <td>Spring Boot , Spring Security , Spring Session , Spring Webflux , MySQL</td>
-    <td>24-11-18 ~ </td>
+    <td>24-11-18 ~ 24-11-25</td>
     <td>Kakao X 9oorm - 9oormthonUNIV 3기 단풍톤 ( 해커톤 ) </td>
     <td>완료</td>
   </tr>
