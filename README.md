@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td>2024-09-01 ~</td>
-    <td>9oormthon DEEP DIVE 풀스택과정 ( KDT )</td>
+    <td>9oormthon DEEP DIVE ( Kakao X 9oorm ) 풀스택과정 ( KDT )</td>
     <td>수료중</td></td>
     <td>11기</td>
   </tr>
