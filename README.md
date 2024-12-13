@@ -74,6 +74,15 @@
     <td>Kakao X 9oorm - 9oormthonUNIV 3기 단풍톤 ( 해커톤 ) </td>
     <td>완료</td>
   </tr>
+  <tr>
+    <td>25-01-11 ~ 25-01-12</td>
+    <td><a href=""> 삐약톤 </a></td>
+    <td>PM, BE</td>
+    <td>Spring Boot , Spring </td>
+    <td>25-01-11 ~ 25-01-12</td>
+    <td>Google Developer Group (GDG) - 삐약톤 </td>
+    <td>예정</td>
+  </tr>
 </table>
 </div>
 <br>
