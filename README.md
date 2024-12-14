@@ -50,7 +50,7 @@
     <td>24-03-02 ~ 24-07.30</td>
     <td><a href="https://github.com/KangWooJu/DomProject_Final">경매를 이용한 중고거래 사이트</a></td>
     <td>PM , BE</td>
-    <td>Spring Boot , Spring, MySQL </td>
+    <td>Spring Boot , Spring, MySQL , Thymeleaf </td>
     <td>1차:24-03-02 ~ 24-06-30 , 리팩토링 : 24-07-10 ~ 24-07-30</td>
     <td>개인 프로젝트</td>
     <td>완료</td>
