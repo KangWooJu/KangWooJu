@@ -18,13 +18,13 @@
     <td>22학번</td>
   </tr>
   <tr>
-    <td>2024-09-01 ~</td>
+    <td>2024-09-01 ~2024-12-31</td>
     <td>9oormthonUNIV ( Kakao X 9oorm ) </td>
     <td>수료</td></td>
     <td>3기</td>
   </tr>
   <tr>
-    <td>2024-09-01 ~</td>
+    <td>2024-09-01 ~2025-02-13</td>
     <td>9oormthon DEEP DIVE ( Kakao X 9oorm ) 풀스택과정 ( KDT )</td>
     <td>수료중</td></td>
     <td>11기</td>
