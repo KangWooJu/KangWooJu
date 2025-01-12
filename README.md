@@ -72,16 +72,16 @@
     <td>Spring Boot , Spring Security , Spring Session , Spring Webflux , MySQL</td>
     <td>24-11-18 ~ 24-11-25</td>
     <td>Kakao X 9oorm - 9oormthonUNIV 3기 단풍톤 ( 해커톤 ) </td>
-    <td>완료</td>
+    <td>배포완료</td>
   </tr>
   <tr>
     <td>25-01-11 ~ 25-01-12</td>
-    <td><a href=""> 삐약톤 육계장팀 - (미정) </a></td>
+    <td><a href=""> 삐약톤 육계장팀 - Rently </a></td>
     <td>PM, BE , DevOps</td>
-    <td>Spring Boot , Spring ,Spring Security , AWS , Docker , Github Actions </td>
+    <td> Spring Security , AWS , Docker , Github Actions </td>
     <td>25-01-11 ~ 25-01-12</td>
     <td>Google Developer Group (GDG) - 삐약톤 ( 해커톤 ) </td>
-    <td>예정</td>
+    <td>배포완료</td>
   </tr>
 </table>
 </div>
