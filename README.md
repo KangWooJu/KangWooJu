@@ -83,6 +83,15 @@
     <td>Google Developer Group (GDG) - 삐약톤 ( 해커톤 ) </td>
     <td>배포완료</td>
   </tr>
+  <tr>
+    <td>25-01-13 ~ 25-01-12</td>
+    <td><a href=""> 풀스택11회차 4조 ( 가제 ) </a></td>
+    <td>BE</td>
+    <td>WebSocket , STOMP , Redis ( 미정 ) </td>
+    <td>25-01-11 ~ 25-01-12</td>
+    <td>KaKao X 9oorm - DEEP DIVE 풀스택과정 IDE 프로젝트 </td>
+    <td>진행중</td>
+  </tr>
 </table>
 </div>
 <br>
