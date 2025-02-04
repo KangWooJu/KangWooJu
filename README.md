@@ -81,7 +81,7 @@
     <td> Spring Security , AWS , Docker , Github Actions </td>
     <td>25-01-11 ~ 25-01-12</td>
     <td>Google Developer Group (GDG) - 삐약톤 ( 해커톤 ) </td>
-    <td>배포완료.</td>
+    <td>배포완료</td>
   </tr>
 </table>
 </div>
