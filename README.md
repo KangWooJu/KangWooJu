@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFC1C1,100:FFB6B6&height=200&section=footer&text=Juice's_GitHub📡&fontSize=60&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn)
 
 
-## :white_check_mark: 소개
+## :white_check_mark: Info
 <div align="center"><br>
 <table>
   <tr>
@@ -34,7 +34,7 @@
 </div>
 <br>
 
-## :white_check_mark: 프로젝트
+## :white_check_mark: Project 
 <div align="center">
 <table>
   <tr>
@@ -87,7 +87,7 @@
 </div>
 <br>
 
-## :white_check_mark: 기술스택 
+## :white_check_mark: Stack
 - Language : <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <br><br>
 - FrameWork : <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/springSecurity-6DB33F?style=for-the-badge&logo=springSercurity&logoColor=white"/><br><br>
