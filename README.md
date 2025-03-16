@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td>25-01-11 ~ 25-01-12</td>
-    <td><a href=""> 삐약톤 육계장팀 - Rently </a></td>
+    <td><a href="https://github.com/Bbiyakthon-6gaejang"> 삐약톤 육계장팀 - Rently </a></td>
     <td>PM, BE , DevOps</td>
     <td> Spring Security , AWS , Docker , Github Actions </td>
     <td>25-01-11 ~ 25-01-12</td>
