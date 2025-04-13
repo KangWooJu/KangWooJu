@@ -53,7 +53,7 @@
     <td>Spring Boot , Spring, MySQL , Thymeleaf </td>
     <td>1차:24-03-02 ~ 24-06-30 , 리팩토링 : 24-07-10 ~ 24-07-30</td>
     <td>개인 프로젝트</td>
-    <td>완료 ( 배포 X )</td>
+    <td>완료 </td>
    
   </tr>
   <tr>
