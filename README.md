@@ -84,16 +84,16 @@
 
 ## :white_check_mark: Stack
 
-💬 Language 💬
+💬 Language 💬 <br>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
-🪛 FrameWork 🪛 
+🪛 FrameWork 🪛 <br>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/springSecurity-6DB33F?style=for-the-badge&logo=springSercurity&logoColor=white"/><br><br>
 
-📉 DataBase 📉 
+📉 DataBase 📉 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br><br>
 
 ♾️ CI/CD ♾️  
