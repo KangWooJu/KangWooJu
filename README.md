@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1C1,100:FFB6B6&height=200&section=footer&text=Juice's%20GitHub📡&fontSize=60&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn"/>
 </p>
 
----
+
 <p align="center">
   
 ## 🧾 About Me
@@ -15,7 +15,6 @@
 
 </p>
 
----
 
 ## 🚀 Projects
 
@@ -28,7 +27,7 @@
 
 <br><br>
 
----
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
@@ -80,7 +79,7 @@
 
 <br><br>
 
----
+
 
 ## 🌱 GitHub Activity
 
@@ -90,12 +89,12 @@
 
 <br><br>
 
----
+
 
 ## 🔗 Links
 
 - 📝 [기술 블로그 바로가기](https://velog.io/@space1102/posts)
 - 💼 [포트폴리오 바로가기](https://your-portfolio-link.com) -> 수정중 
 
----
+
 
