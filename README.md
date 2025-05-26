@@ -40,13 +40,14 @@
 </div>
 
 <!-- 프레임워크 -->
-<h4 align="center">🧩 프레임워크</h4>
+<h4 align="center">🧩 프레임워크 / 아키텍쳐 </h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/SpringWebflux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=protocols.io&logoColor=white" />&nbsp;
 </div>
 
 <!-- 데이터베이스 -->
