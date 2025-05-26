@@ -82,17 +82,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KangWooJu&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangWooJu&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
-<br><br>
-
----
-
 ## 🌱 GitHub Activity
 
 <p align="center">
