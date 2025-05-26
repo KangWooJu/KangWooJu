@@ -26,18 +26,21 @@
 | 2024.11.18 ~ 2024.11.22 | [집콕 (ZIP:COCK)](https://github.com/KangWooJu/2024_DANPOONG_TEAM_44_BE) | PM, BE | Spring Boot, Spring Security, Webflux | 9oormthonUNIV 해커톤 | 해커톤 | 🚀 배포 완료 |
 | 2025.01.11 ~ 2025.01.12 | [Rently - 삐약톤 육계장팀](https://github.com/Bbiyakthon-6gaejang) | PM, BE, DevOps | Spring Security, AWS, Docker, GitHub Actions | GDG 해커톤 | 해커톤 | 🚀 배포 완료 |
 
----
+<br><br>
 
+---
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
-<!-- Languages -->
+<!-- 언어 -->
+<h4 align="center">📚 언어</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
 </div>
 
-<!-- Spring -->
+<!-- 프레임워크 -->
+<h4 align="center">🧩 프레임워크</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;
@@ -46,12 +49,14 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />&nbsp;
 </div>
 
-<!-- Database -->
+<!-- 데이터베이스 -->
+<h4 align="center">🗄️ 데이터베이스</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
 </div>
 
-<!-- DevOps / Cloud -->
+<!-- 데브옵스 -->
+<h4 align="center">⚙️ 데브옵스 / 클라우드</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;
@@ -60,7 +65,8 @@
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />&nbsp;
 </div>
 
-<!-- Tools -->
+<!-- 툴 -->
+<h4 align="center">🛠️ 툴</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
@@ -68,7 +74,7 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp;
 </div>
 
-
+<br><br>
 
 ---
 
@@ -79,6 +85,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangWooJu&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
+<br><br>
+
 ---
 
 ## 🌱 GitHub Activity
@@ -87,6 +95,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KangWooJu&theme=tokyo-night"/>
 </p>
 
+<br><br>
+
 ---
 
 ## 🔗 Links
@@ -94,7 +104,7 @@
 - 📝 [블로그 바로가기](https://your-blog-link.com)
 - 💼 [포트폴리오 바로가기](https://your-portfolio-link.com)
 
+<br><br>
+
 ---
 
-> 👋 꾸준히 성장하는 개발자, Juice 입니다.  
-> 다양한 협업 경험과 책임감 있는 PM 역할을 기반으로, 확장성과 유지보수성을 고려한 백엔드 아키텍처를 지향합니다.
