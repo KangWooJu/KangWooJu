@@ -79,7 +79,7 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 ## 🏆 Credentials
 
 - Dankook University (B.S in Computer Engineering, on leave of absence)
-- 9oormthon Univ 3th – Bootcamp Accomplishment
+- 9oormthon Univ 3th – student developer group 
 
 ---
 
