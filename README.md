@@ -72,7 +72,7 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 
 ## 📚 Blog
 
-- [Velog](https://velog.io/@KangWooJu) – My development blog (in Korean)
+- [Velog](https://velog.io/@space1102/posts) – My development blog (in Korean)
 
 ---
 
@@ -85,8 +85,7 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 
 ## 📫 Contact
 
-Feel free to reach out or connect!  
-You can find me on [Velog](https://velog.io/@space1102/posts), or leave a message via GitHub.
+Feel free to send me an email at space1102@naver.com. or leave a message via GitHub!
 
 ---
 
