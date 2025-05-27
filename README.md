@@ -8,7 +8,7 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 ## 🚀 About Me
 
 - 🎓 **Dankook University** (B.S in Computer Engineering, on leave of absence)
-- 🎯 **Bootcamp Graduate**: 9oormthon Univ 3th
+- 🎯 **Student Development group**: 9oormthon Univ 3th
 
 ---
 
