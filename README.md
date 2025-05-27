@@ -86,7 +86,7 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 ## 📫 Contact
 
 Feel free to reach out or connect!  
-You can find me on [Velog](https://velog.io/@KangWooJu), or leave a message via GitHub.
+You can find me on [Velog](https://velog.io/@space1102/posts), or leave a message via GitHub.
 
 ---
 
