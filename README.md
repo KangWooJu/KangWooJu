@@ -7,7 +7,7 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 
 ## 🚀 About Me
 
-- 🎓 **Computer Engineering Major** @ Dankook University  
+- 🎓 **Dankook University** (B.S in Computer Engineering, on leave of absence)
 - 🎯 **Bootcamp Graduate**: 9oormthon Univ 3th
 
 ---
@@ -40,24 +40,33 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 
 ## 🛠️ Top Skills
 
-- **Spring / Spring Boot with Java**
-- Building RESTful APIs and scalable backend architectures
-- DevOps: CI/CD, containerization, monitoring, and cloud deployment
+- **REST API Design & Implementation**
+- **Spring MVC Architecture**
+- **Spring Security JWT Authentication**
+- **Custom Exception Handling**
+
+---
+
+## 🏗️ Back-end Experience
+
+- Developed and maintained robust **REST APIs** for various domains
+- Implemented the **User domain** using two different authentication methods:
+  - **JWT-based authentication** with Spring Security
+  - **CSRF token-based authentication** with Spring Security
+- Integrated **social login (KakaoTalk)** for seamless user experience
+- Built **board domain** using Thymeleaf for dynamic page rendering
+- Experience deploying applications using **AWS EC2 instances** and **Docker**
 
 ---
 
 ## ✨ Projects
 
-| Period                  | Project & Repo                                                                                              | Role(s)           | Tech Stack                                  | Note / Type / Status       |
-|-------------------------|-------------------------------------------------------------------------------------------------------------|-------------------|----------------------------------------------|----------------------------|
-| 2024.03.02–2024.07.30   | [Auction Used-Trade Site](https://github.com/KangWooJu/DomProject_Final)                                    | PM, BE            | Spring Boot, MySQL, Thymeleaf                | Refactoring: 07.10–07.30<br>Personal<br>✅ Done |
-| 2024.03–2024.06         | [Learning App – Dankook Univ Study](https://github.com/9oormthonDKU)                                       | PM, BE            | Spring Boot, MySQL                           | Study Project<br>Deployed 🚀                  |
-| 2024.11.18–2024.11.22   | [ZIP:COCK](https://github.com/KangWooJu/2024_DANPOONG_TEAM_44_BE)                                          | PM, BE            | Spring Boot, Spring Security, WebFlux        | 9oormthonUNIV Hackathon<br>Deployed 🚀         |
-| 2025.01.11–2025.01.12   | [Rently – Bbiyakthon Team](https://github.com/Bbiyakthon-6gaejang)                                         | PM, BE, DevOps    | Spring Security, AWS, Docker, GitHub Actions | GDG Hackathon<br>Deployed 🚀                  |
-
-<!--
-PM: Project Manager, BE: Back-end, DevOps: Development Operations
--->
+| Period                | Project & Repo                                                                                              | Role(s)           | Tech Stack                                  | Note / Type / Status       |
+|-----------------------|-------------------------------------------------------------------------------------------------------------|-------------------|----------------------------------------------|----------------------------|
+| 2024.03.02–2024.07.30 | [Auction Used-Trade Site](https://github.com/KangWooJu/DomProject_Final)                                    | PM, BE            | Spring Boot, MySQL, Thymeleaf                | Refactoring: 07.10–07.30<br>Personal<br>✅ Done |
+| 2024.03–2024.06       | [Learning App – Dankook Univ Study](https://github.com/9oormthonDKU)                                       | PM, BE            | Spring Boot, MySQL                           | Study Project<br>Deployed 🚀                  |
+| 2024.11.18–2024.11.22 | [ZIP:COCK](https://github.com/KangWooJu/2024_DANPOONG_TEAM_44_BE)                                          | PM, BE            | Spring Boot, Spring Security, WebFlux        | 9oormthonUNIV Hackathon<br>Deployed 🚀         |
+| 2025.01.11–2025.01.12 | [Rently – Bbiyakthon Team](https://github.com/Bbiyakthon-6gaejang)                                         | PM, BE, DevOps    | Spring Security, AWS, Docker, GitHub Actions | GDG Hackathon<br>Deployed 🚀                  |
 
 ---
 
@@ -69,7 +78,7 @@ PM: Project Manager, BE: Back-end, DevOps: Development Operations
 
 ## 🏆 Credentials
 
-- Dankook University (B.S in Computer Engineering,on leave of absence)
+- Dankook University (B.S in Computer Engineering, on leave of absence)
 - 9oormthon Univ 3th – Bootcamp Accomplishment
 
 ---
