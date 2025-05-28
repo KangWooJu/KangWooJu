@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 I'm a passionate **Back-end Developer** specializing in building robust, scalable server-side applications.
 <br>
 
----
+
 
 ## 🚀 About Me
 
@@ -12,7 +12,7 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 - 🎯 **Student Development group**: 9oormthon Univ 3th
 <br>
 
----
+
 
 ## 💡 Tech Stack & Tools
 
@@ -40,7 +40,7 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 
   <br>
 
----
+
 
 ## 🛠️ Top Skills
 
@@ -51,7 +51,7 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 
 <br>
 
----
+
 
 ## 🏗️ Back-end Experience
 
@@ -65,7 +65,7 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 
 <br>
 
----
+
 
 ## ✨ Projects
 
@@ -78,7 +78,7 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 
 <br>
 
----
+
 
 ## 📚 Blog
 
@@ -86,19 +86,19 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 
 <br>
 
----
+
 
 ## 🏆 Credentials
 
 - Dankook University (B.S in Computer Engineering, on leave of absence)
 - 9oormthon Univ 3th – student developer group 
 
----
+<br>
 
 ## 📫 Contact
 
 Feel free to send me an email at space1102@naver.com. or leave a message via GitHub!
 
----
+
 
 _Thanks for visiting my profile!_ 🚀
