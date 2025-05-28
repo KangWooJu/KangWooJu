@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile!  
 I'm a passionate **Back-end Developer** specializing in building robust, scalable server-side applications.
+<br>
 
 ---
 
@@ -9,6 +10,7 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 
 - 🎓 **Dankook University** (B.S in Computer Engineering, on leave of absence)
 - 🎯 **Student Development group**: 9oormthon Univ 3th
+<br>
 
 ---
 
@@ -36,6 +38,8 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
   ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
+  <br>
+
 ---
 
 ## 🛠️ Top Skills
@@ -44,6 +48,8 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 - **Spring MVC Architecture**
 - **Spring Security JWT Authentication**
 - **Custom Exception Handling**
+
+<br>
 
 ---
 
@@ -57,6 +63,8 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 - Built **board domain** using Thymeleaf for dynamic page rendering
 - Experience deploying applications using **AWS EC2 instances** and **Docker**
 
+<br>
+
 ---
 
 ## ✨ Projects
@@ -68,11 +76,15 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 | 2024.11.18–2024.11.22 | [ZIP:COCK](https://github.com/KangWooJu/2024_DANPOONG_TEAM_44_BE)                                          | PM, BE            | Spring Boot, Spring Security, WebFlux        | 9oormthonUNIV Hackathon<br>Deployed 🚀         |
 | 2025.01.11–2025.01.12 | [Rently – Bbiyakthon Team](https://github.com/Bbiyakthon-6gaejang)                                         | PM, BE, DevOps    | Spring Security, AWS, Docker, GitHub Actions | GDG Hackathon<br>Deployed 🚀                  |
 
+<br>
+
 ---
 
 ## 📚 Blog
 
 - [Velog](https://velog.io/@space1102/posts) – My development blog (in Korean)
+
+<br>
 
 ---
 
