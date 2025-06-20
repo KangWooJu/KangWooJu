@@ -59,6 +59,7 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 - Implemented the **User domain** using two different authentication methods:
   - **JWT-based authentication** with Spring Security
   - **CSRF token-based authentication** with Spring Security
+  - Apply **Custom Exception Handling** for RESTful API
 - Integrated **social login (KakaoTalk)** for seamless user experience
 - Built **board domain** using Thymeleaf for dynamic page rendering
 - Experience deploying applications using **AWS EC2 instances** and **Docker**
