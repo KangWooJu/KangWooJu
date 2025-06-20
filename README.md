@@ -47,7 +47,7 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 - **REST API Design & Implementation**
 - **Spring MVC Architecture**
 - **Spring Security JWT Authentication**
-- **Custom Exception Handling**
+
 
 <br>
 
