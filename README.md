@@ -37,30 +37,6 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 
 <br>
 
-## 🛠️ Top Skills
-
-- **REST API Design & Implementation**
-- **Spring MVC Architecture**
-- **Spring Security JWT Authentication**
-- **Custom Exception Handling for RESTful APIs**
-- **JPA-based ORM (Object-Relational Mapping)**
-- **Stream API & Functional Programming in Java**
-
-<br>
-
-## 🏗️ Back-end Experience
-
-- Developed and maintained robust **REST APIs** for various domains  
-- Implemented the **User domain** using two different authentication methods:  
-  - **JWT-based authentication** with Spring Security  
-  - **CSRF token-based authentication** with Spring Security  
-- Applied **Custom Exception Handling** for RESTful APIs  
-- Integrated **social login (KakaoTalk)** for seamless user experience  
-- Built **board domain** using Thymeleaf for dynamic page rendering  
-- Experience deploying applications using **AWS EC2 instances** and **Docker**
-
-<br>
-
 ## ✨ Projects
 
 | Period                | Project & Repo                                                                                              | Role(s)           | Tech Stack                                  | Note / Type / Status       |
