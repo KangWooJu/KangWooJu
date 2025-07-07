@@ -4,15 +4,11 @@ Welcome to my GitHub profile!
 I'm a passionate **Back-end Developer** specializing in building robust, scalable server-side applications.
 <br><br>
 
-
-
 ## 🚀 About Me
 
 - 🎓 **Dankook University** (B.S in Computer Engineering , LOA)
 - 🎯 **Student Development group**: 9oormthon Univ 3th
 <br>
-
-
 
 ## 💡 Tech Stack & Tools
 
@@ -20,8 +16,10 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+  
 - **Database:**  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  
 - **DevOps & Cloud:**  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
@@ -37,35 +35,31 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
   ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
-  <br>
-
-
+<br>
 
 ## 🛠️ Top Skills
 
 - **REST API Design & Implementation**
 - **Spring MVC Architecture**
 - **Spring Security JWT Authentication**
-
+- **Custom Exception Handling for RESTful APIs**
+- **JPA-based ORM (Object-Relational Mapping)**
+- **Stream API & Functional Programming in Java**
 
 <br>
-
-
 
 ## 🏗️ Back-end Experience
 
-- Developed and maintained robust **REST APIs** for various domains
-- Implemented the **User domain** using two different authentication methods:
-  - **JWT-based authentication** with Spring Security
-  - **CSRF token-based authentication** with Spring Security
-  - Apply **Custom Exception Handling** for RESTful API
-- Integrated **social login (KakaoTalk)** for seamless user experience
-- Built **board domain** using Thymeleaf for dynamic page rendering
+- Developed and maintained robust **REST APIs** for various domains  
+- Implemented the **User domain** using two different authentication methods:  
+  - **JWT-based authentication** with Spring Security  
+  - **CSRF token-based authentication** with Spring Security  
+- Applied **Custom Exception Handling** for RESTful APIs  
+- Integrated **social login (KakaoTalk)** for seamless user experience  
+- Built **board domain** using Thymeleaf for dynamic page rendering  
 - Experience deploying applications using **AWS EC2 instances** and **Docker**
 
 <br>
-
-
 
 ## ✨ Projects
 
@@ -78,19 +72,15 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 
 <br>
 
-
-
 ## 📚 Blog
 
 - [Velog](https://velog.io/@space1102/posts) – My development blog (in Korean)
 
 <br>
 
-
-
 ## 🏆 Credentials
 
-- Dankook University (B.S in Computer Engineering, on leave of absence)
+- Dankook University (B.S in Computer Engineering, on leave of absence)  
 - 9oormthon Univ 3th – student developer group 
 
 <br>
@@ -98,7 +88,5 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 ## 📫 Contact
 
 Feel free to send me an email at space1102@naver.com. or leave a message via GitHub!
-
-
 
 _Thanks for visiting my profile!_ 🚀
