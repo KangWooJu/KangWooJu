@@ -44,7 +44,8 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 | 2024.03.02–2024.07.30 | [Auction Used-Trade Site](https://github.com/KangWooJu/DomProject_Final)                                    | PM, BE            | Spring Boot, MySQL, Thymeleaf                | Refactoring: 07.10–07.30<br>Personal<br>✅ Done |
 | 2024.03–2024.06       | [Learning App – Dankook Univ Study](https://github.com/9oormthonDKU)                                       | PM, BE            | Spring Boot, MySQL                           | Study Project<br>Deployed 🚀                  |
 | 2024.11.18–2024.11.22 | [ZIP:COCK](https://github.com/KangWooJu/2024_DANPOONG_TEAM_44_BE)                                          | PM, BE            | Spring Boot, Spring Security      | 9oormthonUNIV Hackathon<br>Deployed 🚀         |
-| 2025.01.11–2025.01.12 | [Rently – Bbiyakthon Team](https://github.com/Bbiyakthon-6gaejang)                                         | PM, BE, DevOps    | Spring Security, AWS, Docker, GitHub Actions | GDG Hackathon<br>Deployed 🚀                  |
+| 2025.01.11–2025.01.12 | [Rently – Bbiyakthon Team](https://github.com/Bbiyakthon-6gaejang)                                         | PM, BE, DevOps    | Spring Boot, AWS, Docker, GitHub Actions | GDG Hackathon<br>Deployed 🚀                  |
+| 2025.08.24 - 2025.08.24 ( 예정 )  | 미정 | BE | Spring Boot , AWS , Docker , Github Actions | 2025 DIVE |
 
 <br>
 
