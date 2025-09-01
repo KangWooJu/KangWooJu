@@ -45,7 +45,7 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 | 2024.03–2024.06       | [Learning App – Dankook Univ Study](https://github.com/9oormthonDKU)                                       | PM, BE            | Spring Boot, MySQL                           | Study Project<br>Deployed 🚀                  |
 | 2024.11.18–2024.11.22 | [ZIP:COCK](https://github.com/KangWooJu/2024_DANPOONG_TEAM_44_BE)                                          | PM, BE            | Spring Boot, Spring Security      | 9oormthonUNIV Hackathon<br>Deployed 🚀         |
 | 2025.01.11–2025.01.12 | [Rently – Bbiyakthon Team](https://github.com/Bbiyakthon-6gaejang)                                         | PM, BE, DevOps    | Spring Boot, AWS, Docker, GitHub Actions | GDG Hackathon<br>Deployed 🚀                  |
-| 2025.08.04 - 2025.08.24   | [QDeep - ( 미정 )](https://github.com/2025DIVE-QDeep/BE) | BE , DevOps | Spring Boot , AWS , Docker , Github Actions | 2025 DIVE |
+| 2025.08.04 - 2025.09.04   | [QDeep - B&Ive](https://github.com/2025DIVE-QDeep/BE) | BE , DevOps | Spring Boot , AWS , Docker , Github Actions | 2025 DIVE |
 
 <br>
 
