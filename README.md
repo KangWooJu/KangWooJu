@@ -45,8 +45,8 @@ I'm a passionate **Back-end Developer** specializing in building robust, scalabl
 | 2024.03–2024.06       | [Learning App – Dankook Univ Study](https://github.com/9oormthonDKU)                                       | PM, BE            | Spring Boot, MySQL                           | Study Project<br>Deployed 🚀                  |
 | 2024.11.18–2024.11.22 | [ZIP:COCK](https://github.com/KangWooJu/2024_DANPOONG_TEAM_44_BE)                                          | PM, BE            | Spring Boot, Spring Security      | 9oormthonUNIV Hackathon<br>Deployed 🚀         |
 | 2025.01.11–2025.01.12 | [Rently – Bbiyakthon Team](https://github.com/Bbiyakthon-6gaejang)                                         | PM, BE, DevOps    | Spring Boot, AWS, Docker, GitHub Actions | GDG Hackathon<br>Deployed 🚀                  |
-| 2025.08.04 - 2025.09.12   | [QDeep - B&Ive](https://github.com/2025DIVE-QDeep/BE) | BE , DevOps | Spring Boot , AWS EC2 , AWS RDS , AWS S3 , Docker , Github Actions | 2025 DIVE<br>Deploying🔥 |
-| 2025.10.01 - 2025.12.03   | [Carefit](https://github.com/2025-KSPO-Project/BE) | BE , PM , DevOps | Spring Boot , MySQL , AWS EC2 , AWS RDS | 2025 국민체육진흥공단 데이터활용 공모전<br>Deploying🔥 |
+| 2025.08.04 - 2025.09.12   | [QDeep - B&Ive](https://github.com/2025DIVE-QDeep/BE) | BE , DevOps | Spring Boot , AWS EC2 , AWS RDS , AWS S3 , Docker , Github Actions | 2025 DIVE<br>Deployed🔥 |
+| 2025.10.01 - 2025.12.03   | [Carefit](https://github.com/2025-KSPO-Project/BE) | BE , PM , DevOps | Spring Boot , MySQL , AWS EC2 , AWS RDS | 2025 국민체육진흥공단 데이터활용 공모전<br>Deployed🔥 |
 
 
 <br>
