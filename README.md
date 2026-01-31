@@ -1,9 +1,5 @@
 # 👋 Hi, I'm KangWooJu!
 
-Welcome to my GitHub profile!  
-I'm a passionate **Back-end Developer** specializing in building robust, scalable server-side applications.
-<br><br>
-
 ## 🚀 About Me
 
 - 🎓 **Dankook University** (B.S in Computer Engineering , LOA)
