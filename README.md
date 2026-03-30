@@ -43,6 +43,7 @@
 | 2025.01.11–2025.01.12 | [Rently – Bbiyakthon Team](https://github.com/Bbiyakthon-6gaejang)                                         | PM, BE, DevOps    | Spring Boot, AWS, Docker, GitHub Actions | GDG Hackathon<br>Deployed 🚀                  |
 | 2025.08.04 - 2025.09.12   | [QDeep - B&Ive](https://github.com/2025DIVE-QDeep/BE) | BE , DevOps | Spring Boot , AWS EC2 , AWS RDS , AWS S3 , Docker , Github Actions | 2025 DIVE<br>Deployed🔥 |
 | 2025.10.01 - 2025.12.03   | [Carefit](https://github.com/2025-KSPO-Project/BE) | BE , PM , DevOps | Spring Boot , MySQL , AWS EC2 , AWS RDS | 2025 국민체육진흥공단 데이터활용 공모전<br>Deployed🔥 |
+| 2026.03.04 - 2026.03.25   | [Remixlab](https://github.com/RemixLab2026/BE)| BE,DevOps | Spring Boot , MySQL , GCE , Cloud SQL , Cloud Storage | 이스트에이드 X Blaybus AI영상 서비스 MVP 해커톤<br>Deployed🔥 |
 
 
 <br>
