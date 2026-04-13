@@ -2,67 +2,78 @@
 
 ## 🚀 About Me
 
-- 🎓 **Dankook University** (B.S in Computer Engineering , LOA)
-- 🎯 **Student Development group**: 9oormthon Univ 3th
+- 🎓 **Dankook University** (B.S in Computer Engineering, LOA)
+- 🎯 **Student Developer Group**: 9oormthon Univ 3rd
+
 <br>
 
 ## 💡 Tech Stack & Tools
 
-- **Languages & Frameworks:**  
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
-  
-- **Database:**  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  
-- **DevOps & Cloud:**  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
-  ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-  ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat&logo=amazon-rds&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
- 
-- **Tools:**  
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-  ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+<div align="center">
+
+### Languages & Frameworks
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 
 <br>
 
-## ✨ Projects
+### Database
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
 
-| Period                | Project & Repo                                                                                              | Role(s)           | Tech Stack                                  | Note / Type / Status       |
-|-----------------------|-------------------------------------------------------------------------------------------------------------|-------------------|----------------------------------------------|----------------------------|
-| 2024.03.02–2024.07.30 | [Auction Used-Trade Site](https://github.com/KangWooJu/DomProject_Final)                                    | PM, BE            | Spring Boot, MySQL, Thymeleaf                | Refactoring: 07.10–07.30<br>Personal<br>✅ Done |
-| 2024.03–2024.06       | [Learning App – Dankook Univ Study](https://github.com/9oormthonDKU)                                       | PM, BE            | Spring Boot, MySQL                           | Study Project<br>Deployed 🚀                  |
-| 2024.11.18–2024.11.22 | [ZIP:COCK](https://github.com/KangWooJu/2024_DANPOONG_TEAM_44_BE)                                          | PM, BE            | Spring Boot, Spring Security      | 9oormthonUNIV Hackathon<br>Deployed 🚀         |
-| 2025.01.11–2025.01.12 | [Rently – Bbiyakthon Team](https://github.com/Bbiyakthon-6gaejang)                                         | PM, BE, DevOps    | Spring Boot, AWS, Docker, GitHub Actions | GDG Hackathon<br>Deployed 🚀                  |
-| 2025.08.04 - 2025.09.12   | [QDeep - B&Ive](https://github.com/2025DIVE-QDeep/BE) | BE , DevOps | Spring Boot , AWS EC2 , AWS RDS , AWS S3 , Docker , Github Actions | 2025 DIVE<br>Deployed🔥 |
-| 2025.10.01 - 2025.12.03   | [Carefit](https://github.com/2025-KSPO-Project/BE) | BE , PM , DevOps | Spring Boot , MySQL , AWS EC2 , AWS RDS | 2025 국민체육진흥공단 데이터활용 공모전<br>Deployed🔥 |
-| 2026.03.04 - 2026.03.25   | [Remixlab](https://github.com/RemixLab2026/BE)| BE,DevOps | Spring Boot , MySQL , GCE , Cloud SQL , Cloud Storage | 이스트에이드 X Blaybus AI영상 서비스 MVP 해커톤<br>Deployed🔥 |
+<br>
 
+### Observability
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
+
+
+<br>
+
+### DevOps & Cloud
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat&logo=amazon-rds&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCE-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20SQL-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+
+<br>
+
+### Tools
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
+
+</div>
 
 <br>
 
 ## 📚 Blog
 
-- [Velog](https://velog.io/@space1102/posts) – My development blog (in Korean)
+- Velog: https://velog.io/@space1102/posts
 
 <br>
 
 ## 🏆 Credentials
 
 - Dankook University (B.S in Computer Engineering, on leave of absence)  
-- 9oormthon Univ 3th – student developer group 
+- 9oormthon Univ 3rd – Student Developer Group
 
 <br>
 
 ## 📫 Contact
 
-Feel free to send me an email at space1102@naver.com. or leave a message via GitHub!
+Feel free to send me an email at **space1102@naver.com**  
+or leave a message via GitHub.
+
+<br>
 
 _Thanks for visiting my profile!_ 🚀
