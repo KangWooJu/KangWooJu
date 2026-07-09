@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Dankook University** (B.S. in Computer Engineering, LOA)
+- 🎓 **Dankook University** (2022.03 ~ )
 - 🎯 **9oormthon Univ 3rd** – Student Developer Group
 - 🌱 Backend Developer interested in **Spring, Database Internals, Distributed Systems, and AI Backend**
 - 📚 Currently studying **MySQL, Open Source Contribution, and AI Agents**
