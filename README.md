@@ -18,18 +18,22 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20WebSocket-6DB33F?style=flat&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-59666C?style=flat"/>
 <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/>
 
 <br>
 
 ### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white"/>
 
 <br>
 
-### Test
+### Testing
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mockito-78A641?style=flat&logo=mockito&logoColor=white"/>
 
@@ -43,13 +47,13 @@
 
 ### DevOps & Cloud
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Compute%20Engine-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloud%20SQL-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 
 <br>
 
@@ -88,4 +92,3 @@ Feel free to reach out!
 <br>
 
 ---
-
